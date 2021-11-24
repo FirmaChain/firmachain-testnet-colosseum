@@ -32,7 +32,7 @@ The following services are used for the Colosseum TestNet:
 
 ## TestNet Status
 
-⚠️ Latest Testnet: [colosseum-1](./colosseum-1) ⚠️
+⚠️ Latest Testnet: colosseum-1 ⚠️
 
 <br>
 
