@@ -57,9 +57,9 @@ curl https://build.firmachain.org/@v0.3.1 | bash
 ## Seed Node
 ### colosseum-1
 ```
-b011227eed2dbe9aac9709b29a180f7676b4557d@colosseum-seed1.firmachain.dev
-edcf3c2f2386ec4e5383cdb6291f4e6772cbab78@colosseum-seed2.firmachain.dev
-14d6ec07d69d8605cdf3808b1ac398756e090462@colosseum-seed3.firmachain.dev
+1a8e340bf37d7a419b7b5a4db0f323099a060443@colosseum-seed1.firmachain.dev
+3e8c571232bdd6b48073213476173fd46b1c8293@colosseum-seed2.firmachain.dev
+458c78173fd416e91fed08c215cc935556d25414@colosseum-seed3.firmachain.dev
 ```
 
 ---
