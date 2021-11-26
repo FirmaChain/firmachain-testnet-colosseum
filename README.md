@@ -20,11 +20,9 @@ The only selected validator is allowed to participate in TestNet, but if you are
 <br>
 
 The following services are used for the Colosseum TestNet:
- - FirmaChain Block Explorer : https://explorer-devnet.firmachain.org/
- - FirmaChain Faucet : https://faucet-devnet.firmachain.org/
- - Cosmos REST: https://imperium-lcd.firmachain.org:1317/
- - Cosmos gRPC: https://imperium-grpc.firmachain.org:9090
- - Tendermint RPC: https://imperium-lcd.firmachain.org:26657/
+ - FirmaChain Block Explorer : https://explorer-colosseum.firmachain.dev
+ - Cosmos REST: https://colosseum-lcd.firmachain.dev:1317
+ - Tendermint RPC: https://colosseum-lcd.firmachain.dev:26657
  - Firma-JS : https://www.npmjs.com/package/@firmachain/firma-js
 
 <br>
