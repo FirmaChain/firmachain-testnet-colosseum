@@ -35,9 +35,9 @@ The following services are used for the Colosseum TestNet:
 <br>
 
 ## Installation
- * Get latest release (v0.3.1)
+ * Get latest release (v0.3.2)
 ```sh
-curl https://build.firmachain.org/@v0.3.1 | bash
+curl https://build.firmachain.org/@v0.3.2 | bash
 ```
 
 * Check release version
@@ -66,7 +66,10 @@ curl https://build.firmachain.org/@v0.3.1 | bash
 
 ## History
 
-### *November 24, 2021 18:00:00 AM (GMT+9)*
+### *December 09, 2021 23:50:00 PM (GMT+9)*
+- colosseum-1 upgraded to v0.3.2
+
+### *November 24, 2021 18:00:00 PM (GMT+9)*
 - colosseum-1 started
 
 
