@@ -31,7 +31,6 @@ The following services are used for the Colosseum TestNet:
 ## TestNet Status
 
 ⚠️ Latest Testnet: colosseum-1 ⚠️
-
 <br>
 
 ## Installation
@@ -44,7 +43,6 @@ curl https://build.firmachain.org/@v0.3.2 | bash
 ```sh
 ./firmachaind version
 ```
-
 
 ## Latest Networks
   - colosseum-1  *(Latest)*  
@@ -61,15 +59,23 @@ curl https://build.firmachain.org/@v0.3.2 | bash
 ```
 
 ---
-<br>
 
+## State Sync
+If you want to be a validator or full-node, You have to upgrade the chain based on the state below.
+
+|Block | Chain Version|Link|
+|--------|-----------|-----------|
+|0 -	189,399|[v0.3.1]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.1)|
+|189,400 -	Current|[v0.3.2]|[Link](https://github.com/firmachain/firmachain/releases/tag/v0.3.2)|
+
+---
 
 ## History
 
-### *December 09, 2021 23:50:00 PM (GMT+9)*
+### *December 09, 2021 23:50:00 (GMT+9)*
 - colosseum-1 upgraded to v0.3.2
 
-### *November 24, 2021 18:00:00 PM (GMT+9)*
+### *November 24, 2021 18:00:00 (GMT+9)*
 - colosseum-1 started
 
 
