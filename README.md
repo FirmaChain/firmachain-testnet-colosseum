@@ -72,6 +72,9 @@ If you want to be a validator or full-node, You have to upgrade the chain based 
 
 ## History
 
+### *December 29, 2021 13:00:00 (GMT+9)*
+- colosseum-testnet has finished officially
+
 ### *December 09, 2021 23:50:00 (GMT+9)*
 - colosseum-1 upgraded to v0.3.2
 
