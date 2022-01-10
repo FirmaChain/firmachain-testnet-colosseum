@@ -1,4 +1,4 @@
-# FirmaChain-TestNet-Colosseum
+# FirmaChain-TestNet-Colosseum (Reward Testnet)
 
 
 <center>
@@ -8,6 +8,11 @@
 
 
 </center>
+
+### Colosseum testnet has officially been terminated as of December 29, 2021.
+
+
+---
 
 The FirmaChain Colosseum TestNet is the final space to prepare for the mainnet.
 
@@ -73,7 +78,7 @@ If you want to be a validator or full-node, You have to upgrade the chain based 
 ## History
 
 ### *December 29, 2021 13:00:00 (GMT+9)*
-- colosseum-testnet has finished officially
+- colosseum-testnet has been finished officially
 
 ### *December 09, 2021 23:50:00 (GMT+9)*
 - colosseum-1 upgraded to v0.3.2
